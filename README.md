@@ -8,4 +8,4 @@ Text Encryptor / Criptografador de Texto
 🔐 Com este criptografador de texto você pode criptografar seu texto usando senhas aleatórias e torná-lo seguro e somente quem sabe a senha pode descriptografar o texto
 
 
-![Screenshot](Screenshot.jpg)
+![Screenshot](./images/Screenshot.png)
